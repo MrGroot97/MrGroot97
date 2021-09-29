@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MrGroot97
-- 👀 I’m interested in Computer Vision and Data Science
+- 👀 I’m interested in Computer Vision and Software development
 - 🌱 I’m currently learning DL based App Development 
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me @kumarujjwalrathore@gmail.com
