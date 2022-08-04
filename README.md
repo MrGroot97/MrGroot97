@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MrGroot97
-- 👀 I’m interested in Computer Vision and Software development
-- 🌱 I’m currently learning DL based App Development 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Software development and Computer Vision 
+- 🌱 I’m currently learning backend Development 
+- 💞️ I’m looking to collaborate on any full stack work
 - 📫 Reach me @kumarujjwalrathore@gmail.com
 - 📫 Reach me also @https://www.linkedin.com/in/ujjwal-kumar-9232a9144/
 
